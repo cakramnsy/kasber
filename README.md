@@ -1,12 +1,12 @@
-# 🛒 KASBER - Aplikasi Kasir Bersama
+# KASBER - Aplikasi Kasir Bersama
 
 KASBER adalah aplikasi web kasir sederhana (Point of Sales) berbasis React yang dirancang untuk membantu pengelolaan transaksi keuangan atau pencatatan penjualan secara digital, cepat, dan responsif.
 
-🚀 **[Link Live Demo Aplikasi](https://cakramnsy.github.io/kasber/)**
+**[Link Live Demo Aplikasi](https://cakramnsy.github.io/kasber/)**
 
 ---
 
-## 🌟 Fitur Utama
+## Fitur Utama
 
 - **Pencatatan Transaksi Real-time:** Menghitung total belanjaan secara otomatis tanpa perlu memuat ulang halaman.
 - **Antarmuka Responsif:** Tampilan modern dan nyaman digunakan baik melalui perangkat komputer (desktop) maupun ponsel pintar (mobile).
@@ -15,7 +15,7 @@ KASBER adalah aplikasi web kasir sederhana (Point of Sales) berbasis React yang 
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 Aplikasi ini dibangun menggunakan ekosistem Front-End modern untuk memastikan performa yang cepat dan efisiensi kode:
 
@@ -26,7 +26,7 @@ Aplikasi ini dibangun menggunakan ekosistem Front-End modern untuk memastikan pe
 
 ---
 
-## 💻 Cara Menjalankan Proyek di Komputer Lokal
+## Cara Menjalankan Proyek di Komputer Lokal
 
 Jika Anda ingin mencoba atau mengembangkan proyek ini di perangkat Anda sendiri, silakan ikuti langkah-langkah berikut:
 
