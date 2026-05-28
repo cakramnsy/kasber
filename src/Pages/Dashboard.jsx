@@ -124,7 +124,11 @@ export default function Dashboard({ setIsLoggedIn, setIsProfileMode, activeUserK
             {userProfile && (
               <div className="mt-1 flex flex-col items-end gap-1.5">
                 <div className="flex items-center gap-2 px-1">
-                  <span className="text-lg font-extrabold text-black leading-none">{userProfile.adminName}</span>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-black">
+                    <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" />
+                    <circle cx="12" cy="7" r="4" />
+                  </svg>
+<span className="text-lg font-extrabold text-bold leading-none tracking-tight">{userProfile.adminName}</span>
                 </div>
                 <div className="inline-block bg-white border border-gray-200 rounded-xl px-3 py-1">
                   <span className="text-[11px] font-medium uppercase text-gray-600 block">{userProfile.institutionName}</span>

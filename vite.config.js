@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/kasber/', // <-- TAMBAHKAN BARIS INI (sesuai nama repositori Anda)
+  base: '/kasber/', // <-- Baris repositori Anda
 })
