@@ -1,0 +1,16 @@
+/* 1. KELOMPOK @IMPORT WAJIB BERADA DI BARIS PALING ATAS */
+@import "tailwindcss";
+@import url('https://googleapis.com');
+
+/* 2. LOGO TEMA TAILWIND V4 DI BAWAHNYA */
+@theme {
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* 3. TERAKHIR ATURAN GLOBAL UNTUK LAYAR BODY */
+body {
+  font-family: var(--font-sans);
+  background-color: #F8F9FA;
+  color: #121212;
+  -webkit-font-smoothing: antialiased;
+}
