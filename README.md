@@ -32,4 +32,4 @@ Jika Anda ingin mencoba atau mengembangkan proyek ini di perangkat Anda sendiri,
 
 1. **Clone Repositori ini:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[cakramnsy]/kasber.git
+   git clone [https://github.com/cakramnsy/kasber.git](https://github.com/cakramnsy/kasber.git)
