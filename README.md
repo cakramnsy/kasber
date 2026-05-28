@@ -2,7 +2,7 @@
 
 KASBER adalah aplikasi web kasir sederhana (Point of Sales) berbasis React yang dirancang untuk membantu pengelolaan transaksi keuangan atau pencatatan penjualan secara digital, cepat, dan responsif.
 
-🚀 **[Link Live Demo Aplikasi](https://wadas.github.io/kasber/)
+🚀 **[Link Live Demo Aplikasi](https://cakramnsy.github.io/kasber/)**
 
 ---
 
