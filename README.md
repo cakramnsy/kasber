@@ -1,16 +1,35 @@
-# React + Vite
+# 🛒 KASBER - Aplikasi Kasir Bersama
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KASBER adalah aplikasi web kasir sederhana (Point of Sales) berbasis React yang dirancang untuk membantu pengelolaan transaksi keuangan atau pencatatan penjualan secara digital, cepat, dan responsif.
 
-Currently, two official plugins are available:
+🚀 **[Link Live Demo Aplikasi](https://wadas.github.io/kasber/)** *(Ganti dengan tautan GitHub Pages Anda)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌟 Fitur Utama
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Pencatatan Transaksi Real-time:** Menghitung total belanjaan secara otomatis tanpa perlu memuat ulang halaman.
+- **Antarmuka Responsif:** Tampilan modern dan nyaman digunakan baik melalui perangkat komputer (desktop) maupun ponsel pintar (mobile).
+- **Manajemen Keranjang Belanja:** Memudahkan pengguna untuk menambah, mengurangi, atau menghapus item belanjaan dengan satu klik.
+- **[Tambahkan fitur unik lain jika ada, contoh: Ringkasan riwayat transaksi / Pencarian produk otomatis]**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Teknologi yang Digunakan
+
+Aplikasi ini dibangun menggunakan ekosistem Front-End modern untuk memastikan performa yang cepat dan efisiensi kode:
+
+- **React.js** – Library JavaScript utama untuk membangun antarmuka komponen yang dinamis.
+- **Vite** – Build tool super cepat untuk pengembangan (Development Server dengan HMR) dan bundling produksi yang optimal.
+- **Tailwind CSS v4** – Framework CSS modern untuk penyusunan desain UI yang cepat, rapi, dan responsif.
+- **GitHub Pages** – Platform untuk meluncurkan dan meng-host aplikasi secara online.
+
+---
+
+## 💻 Cara Menjalankan Proyek di Komputer Lokal
+
+Jika Anda ingin mencoba atau mengembangkan proyek ini di perangkat Anda sendiri, silakan ikuti langkah-langkah berikut:
+
+1. **Clone Repositori ini:**
+   ```bash
+   git clone [https://github.com/](https://github.com/)[cakramnsy]/kasber.git
